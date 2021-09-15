@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.alibaba.ir ",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+}
